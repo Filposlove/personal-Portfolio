@@ -1,6 +1,6 @@
 # My personal Web Developer Portfolio
 - Name - Filpos Seife 
-- @gmail - mergetafilpos@
+- email - mergetafilpos@gmail.com
 - Welcome to my Personal Portfolio website! This is a fully responsive, modern HTML portfolio designed to showcase my projects, skills, and exprience as a web developer.
 - The site is built with semantic HTML, git, github and other...
 - Dedicated section to highlight my best work with preview.
