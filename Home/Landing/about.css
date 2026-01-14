@@ -19,13 +19,14 @@ html {
       }
       section {
         background-color: rgb(218, 251, 5);
+        justify-content: left;
         margin: 15px;
         width: 570px;
       }
       
       .sche-one {
         color: white;
-        text-align: center;
+        text-align: left;
       }
       a{
         color: white;
