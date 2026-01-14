@@ -1,0 +1,42 @@
+<style>
+       html {
+        background-color: black;
+      }
+      h2, p {
+        color: yellow;
+      }
+      nav {
+        display: flex;
+        background-color: rgb(102, 53, 53);
+        padding: 15px;
+        justify-content: space-between;
+      }
+      main {
+        display: flex;
+        background-color: rgb(102, 53, 53);
+        padding: 15px;
+        align-items: left;
+        margin: 50px;
+      }
+      form {
+        color: white;
+      }
+      textarea {
+        padding: 50px;
+      }
+      
+      main {
+        background-color: rgb(14, 50, 50);
+        
+      }
+      a{
+        color: white;
+      }
+      footer {
+        color: white;
+      }
+      .life, :hover{
+        background-color: #9a9292;
+        color: blue;
+      }
+    </style>
