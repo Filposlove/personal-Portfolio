@@ -1,0 +1,38 @@
+<style>
+      img {
+        border-radius: 200px;
+        border-color:  rgb(198, 240, 12);
+        justify-content: center;
+        align-items: center;
+      }
+       html {
+        background-color: black;
+      }
+      h1, h2, h3, p {
+        color: yellow;
+      }
+      nav {
+        display: flex;
+        background-color: rgb(102, 53, 53);
+        padding: 15px;
+        justify-content: space-between;
+        color: white;
+      }
+      section {
+        background-color: rgb(218, 251, 5);
+        margin: 15px;
+        width: 220px;
+      }
+      main {
+        background-color: rgb(14, 50, 50);
+      }
+      a{
+        color: white;
+      }
+      footer {
+        color: white;
+      }
+      ul, ol {
+        color: white;
+      }
+    </style>
