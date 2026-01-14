@@ -1,38 +1,74 @@
 <style>
-      img {
-        border-radius: 200px;
-        border-color:  rgb(198, 240, 12);
-        justify-content: center;
-        align-items: center;
+      h2, h3, p {
+        color: rgb(248, 248, 247);
+        text-align: center;
       }
-       html {
-        background-color: black;
+      body {
+        background-color: rgb(15, 3, 47);
       }
-      h1, h2, h3, p {
-        color: yellow;
-      }
+
       nav {
         display: flex;
-        background-color: rgb(102, 53, 53);
+        background-color: rgb(5, 11, 56);
         padding: 15px;
         justify-content: space-between;
         color: white;
+        margin-left: 650px;
+        margin-right: 50px;
+        height: -20px;
+        padding-left: 25px;
       }
-      section {
+      h2, h3, p {
+        color: rgb(248, 248, 247);
+        text-align: center;
+        width: 100px;
+        padding-left: 40px;
+        padding-bottom: 40px;
+      }
+      .image-link {
         background-color: rgb(218, 251, 5);
         margin: 15px;
         width: 220px;
+        margin: 0;
+      }
+      .image-love {
+        border-radius: 100px;
+        border-radius: 100px;
+         width: 550px;
+         height: 350px;
+         margin-left: 200px;
+         margin-bottom: 60px;
+         margin-top: -350px;
+         justify-content: center;
+      }
+      .for-link {
+        width: 850px;
       }
       main {
-        background-color: rgb(14, 50, 50);
+        background-color: rgb(4, 99, 133);
+        margin-bottom: 100px;
+        border: no;
+      }
+      #heade-one {
+        font-family: 'Franklin Gothic Medium';
+        text-align: center;
+        margin-bottom: 50px;
+        margin-left: 100px;
+        color: yellow;
+      }
+      hr {
+        margin-top: 50px;
       }
       a{
         color: white;
       }
-      footer {
+      figcaption {
         color: white;
+        text-align: center;
+        margin-top: -50px;
       }
-      ul, ol {
-        color: white;
+      footer {
+        background-color: rgb(49, 21, 21);
+        color: rgb(241, 236, 236);
       }
     </style>
