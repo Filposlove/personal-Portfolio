@@ -13,64 +13,38 @@
         padding: 15px;
         justify-content: space-between;
         color: white;
-        margin-left: 550px;
-        margin-right: 300px;
+        margin-left: 350px;
+        margin-right: 200px;
         height: -20px;
         padding-left: 25px;
       }
     
-      .image-link {
-        background-color: rgb(218, 251, 5);
-        margin: 15px;
-        width: 220px;
-        margin: 0;
-      }
-      .image-love {
-        border-radius: 200px;
-         width: 350px;
-         height: 320px;
-         margin-left: -0px;
-         margin-bottom: 60px;
-         margin-top: -150px;
-         justify-content: center;
-      }
-      .for-link {
-        width: 850px;
-        text-align: left;
-      }
+      
       main {
-        background-color: rgb(1, 13, 36);
+        background-color: rgb(2, 2, 10);
         margin-bottom: 100px;
         border: no;
       }
-      #heade-one {
+      .learn-one {
         font-family: 'Franklin Gothic Medium';
         text-align: left;
         margin-right: px;
-        color: yellow;
+        color: white;
         padding-left: 60px;
       }
-      hr {
-        margin-top: 50px;
-      }
-      .biuld-back {
-        background-color: rgb(213, 232, 7);
-        border-radius: 200px;
-        color:  black;
-        width: 150px;
-        height: 100px;
-        padding: 50px;
-        margin-left: 450px;
-        font-size: 10px;
-        
+      
+       .learn-two {
+        font-family: 'Franklin Gothic Medium';
+        text-align: left;
+        color: white;
+        padding-left: 60px;
       }
       a{
         color: rgb(13, 247, 52);
       }
-      figcaption {
+      h1,h2,h3,p {
         color: white;
         text-align: center;
-        margin-top: -50px;
         text-align: left;
       }
       footer {
@@ -81,4 +55,5 @@
       .fot-two {
         margin-top: -80px;
       }
+
     </style>
