@@ -1,39 +1,87 @@
 <style>
-body {
-  font: optional;
-}
-       html {
-        background-color: rgb(66, 90, 173);
-      }
-    p {
-        color: yellow;
+      h2, h3, p {
+        color: rgb(248, 248, 247);
         text-align: center;
       }
-      h2 {
-        color: yellow;
-        text-align: center;
-        font-size: 50px;
+      body {
+        background-color: rgb(15, 3, 47);
       }
+
       nav {
         display: flex;
-        background-color: rgb(9, 3, 29);
+        background-color: rgb(46, 48, 69);
         padding: 15px;
-        margin-bottom: 100px;
         justify-content: space-between;
+        color: white;
+        margin-left: 550px;
+        margin-right: 350px;
+        height: -20px;
+        padding-left: 25px;
+      }
+    
+      .image-link {
+        background-color: rgb(218, 251, 5);
+        margin: 15px;
+        width: 220px;
+        margin: 0;
+      }
+      .image-love {
+        border-radius: 200px;
+         width: 350px;
+         height: 320px;
+         margin-left: -0px;
+         margin-bottom: 60px;
+         margin-top: -150px;
+         justify-content: center;
+      }
+      .for-link {
+        width: 850px;
+        text-align: left;
       }
       main {
-        display: flex;
-        background-color: rgb(188, 160, 207);
-        padding: 15px;
-        align-items: left;
-        margin: 50px;
+        background-color: rgb(1, 13, 36);
+        margin-bottom: 100px;
+        border: no;
       }
-      form {
-        color: white;
+      #heade-one {
+        font-family: 'Franklin Gothic Medium';
+        text-align: left;
+        margin-right: px;
+        color: yellow;
+        padding-left: 60px;
       }
-      textarea {
+      hr {
+        margin-top: 50px;
+      }
+      .biuld-back {
+        background-color: rgb(213, 232, 7);
+        border-radius: 200px;
+        color:  black;
+        width: 150px;
+        height: 100px;
         padding: 50px;
+        margin-left: 450px;
+        font-size: 10px;
+        
       }
+      a{
+        color: rgb(13, 247, 52);
+      }
+      figcaption {
+        color: white;
+        text-align: center;
+        margin-top: -50px;
+        text-align: left;
+      }
+      footer {
+        background-color: rgb(49, 21, 21);
+        color: rgb(241, 236, 236);
+
+      }
+      .fot-two {
+        margin-top: -80px;
+      }
+    </style>
       
       main {
         background-color: rgb(62, 7, 124);
