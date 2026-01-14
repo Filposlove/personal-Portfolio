@@ -1,13 +1,12 @@
 <style>
-      h2, h3, p {
+      h1,h2, p {
         color: rgb(248, 248, 247);
         text-align: center;
       }
       body {
         background-color: rgb(2, 2, 10);
       }
-
-      nav {
+      .for-header {
         display: flex;
         background-color: rgb(46, 48, 69);
         padding: 15px;
@@ -18,87 +17,35 @@
         height: -20px;
         padding-left: 25px;
       }
-    
-      .image-link {
-        background-color: rgb(218, 251, 5);
-        margin: 15px;
-        width: 220px;
-        margin: 0;
+      .for-header:hover {
+        background-color: rgb(0, 0, 0);
       }
-      .image-love {
-        border-radius: 200px;
-         width: 350px;
-         height: 320px;
-         margin-left: -0px;
-         margin-bottom: 60px;
-         margin-top: -150px;
-         justify-content: center;
+      .for-header :focus {
+        background-color: white;
       }
-      .for-link {
-        width: 850px;
-        text-align: left;
+      .contact-nav {
+        color: white;
+        text-align: center;
+        margin-bottom: 40px;
       }
-      main {
-        background-color: rgb(1, 13, 36);
-        margin-bottom: 100px;
-        border: no;
+       h1,h2, p {
+        color: rgb(248, 248, 247);
+        text-align: center;
       }
-      #heade-one {
-        font-family: 'Franklin Gothic Medium';
-        text-align: left;
-        margin-right: px;
-        color: yellow;
-        padding-left: 60px;
-      }
-      hr {
-        margin-top: 50px;
-      }
-      .biuld-back {
-        background-color: rgb(213, 232, 7);
-        border-radius: 200px;
-        color:  black;
-        width: 150px;
-        height: 100px;
-        padding: 50px;
-        margin-left: 450px;
-        font-size: 10px;
-        
-      }
+  
       a{
         color: rgb(13, 247, 52);
       }
-      figcaption {
-        color: white;
-        text-align: center;
-        margin-top: -50px;
-        text-align: left;
-      }
-      footer {
-        background-color: rgb(49, 21, 21);
-        color: rgb(241, 236, 236);
 
-      }
-      .fot-two {
-        margin-top: -80px;
-      }
-    </style>
-      
-      main {
-        background-color: rgb(62, 7, 124);
-        
-      }
-      a{
-        color: white;
-      }
       footer {
-        color: white;
+        background-color: rgb(1, 1, 1);
+        color: rgb(241, 236, 236);
+        margin: 0;
       }
-      .life:hover{
-        background-color: #9a9292;
-        color: rgb(41, 227, 8);
+      .button-one:hover {
+        background-color: rgb(7, 249, 112);
       }
-       .life:focus{
-        background-color: #9a9292;
-        color: rgb(250, 23, 23);
+      .button-one:focus {
+        background-color: rgb(236, 49, 8);
       }
     </style>
