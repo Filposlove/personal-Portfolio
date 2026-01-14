@@ -1,19 +1,28 @@
 <style>
+body {
+  font: optional;
+}
        html {
-        background-color: black;
+        background-color: rgb(3, 27, 116);
       }
-      h2, p {
+    p {
         color: yellow;
+        text-align: center;
+      }
+      h2 {
+        color: yellow;
+        text-align: center;
       }
       nav {
         display: flex;
-        background-color: rgb(102, 53, 53);
+        background-color: rgb(55, 4, 242);
         padding: 15px;
+        margin-bottom: 100px;
         justify-content: space-between;
       }
       main {
         display: flex;
-        background-color: rgb(102, 53, 53);
+        background-color: rgb(248, 13, 13);
         padding: 15px;
         align-items: left;
         margin: 50px;
@@ -26,7 +35,7 @@
       }
       
       main {
-        background-color: rgb(14, 50, 50);
+        background-color: rgb(2, 1, 56);
         
       }
       a{
@@ -35,7 +44,7 @@
       footer {
         color: white;
       }
-      .life, :hover{
+      .life:hover{
         background-color: #9a9292;
         color: blue;
       }
