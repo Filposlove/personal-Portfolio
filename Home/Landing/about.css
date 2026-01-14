@@ -1,35 +1,33 @@
 <style>
-img {
-        border-radius: 200px;
-        border-color:  rgb(198, 240, 12);
-        justify-content: center;
-        align-items: center;
+html {
+        background-color: rgb(11, 4, 104);
       }
        html {
-        background-color: black;
+        background-color: rgb(31, 91, 93);
       }
       h1, h2, h3, p {
         color: yellow;
       }
       nav {
         display: flex;
-        background-color: rgb(102, 53, 53);
+        background-color: rgb(26, 12, 58);
         padding: 15px;
         justify-content: space-between;
         color: white;
+        margin-left: 300px;
+        margin-right: 300px;
       }
       section {
         background-color: rgb(218, 251, 5);
         margin: 15px;
-        width: 220px;
+        width: 570px;
       }
-      main {
-        background-color: rgb(14, 50, 50);
+      
+      .sche-one {
+        color: white;
+        text-align: center;
       }
       a{
-        color: white;
-      }
-      footer {
         color: white;
       }
       ul, ol {
