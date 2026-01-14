@@ -13,17 +13,19 @@
         padding: 15px;
         justify-content: space-between;
         color: white;
-        margin-left: 50px;
-        margin-right: 50px;
+        margin-left: 550px;
+        margin-right: 350px;
         height: -20px;
         padding-left: 25px;
       }
       h2, h3, p {
         color: rgb(248, 248, 247);
         text-align: center;
-        width: 100px;
-        padding-left: 40px;
-        padding-bottom: 40px;
+        width: 800px;
+        width: -300px;
+        padding-right: 100px;
+        padding-bottom: 20px;
+        margin-left: 100px;
       }
       .image-link {
         background-color: rgb(218, 251, 5);
@@ -32,13 +34,12 @@
         margin: 0;
       }
       .image-love {
-        border-radius: 100px;
-        border-radius: 100px;
+        border-radius: 200px;
          width: 350px;
-         height: 250px;
-         margin-left: 200px;
+         height: 320px;
+         margin-left: -0px;
          margin-bottom: 60px;
-         margin-top: -350px;
+         margin-top: -150px;
          justify-content: center;
       }
       .for-link {
@@ -53,14 +54,15 @@
       #heade-one {
         font-family: 'Franklin Gothic Medium';
         text-align: left;
-        margin: auto;
+        margin-right: px;
         color: yellow;
+        padding-left: 60px;
       }
       hr {
         margin-top: 50px;
       }
       a{
-        color: white;
+        color: rgb(13, 247, 52);
       }
       figcaption {
         color: white;
