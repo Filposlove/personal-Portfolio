@@ -9,11 +9,11 @@
 
       nav {
         display: flex;
-        background-color: rgb(5, 11, 56);
+        background-color: rgb(46, 48, 69);
         padding: 15px;
         justify-content: space-between;
         color: white;
-        margin-left: 650px;
+        margin-left: 550px;
         margin-right: 50px;
         height: -20px;
         padding-left: 25px;
@@ -34,8 +34,8 @@
       .image-love {
         border-radius: 100px;
         border-radius: 100px;
-         width: 550px;
-         height: 350px;
+         width: 350px;
+         height: 250px;
          margin-left: 200px;
          margin-bottom: 60px;
          margin-top: -350px;
@@ -43,17 +43,17 @@
       }
       .for-link {
         width: 850px;
+        text-align: left;
       }
       main {
-        background-color: rgb(4, 99, 133);
+        background-color: rgb(1, 13, 36);
         margin-bottom: 100px;
         border: no;
       }
       #heade-one {
         font-family: 'Franklin Gothic Medium';
-        text-align: center;
-        margin-bottom: 50px;
-        margin-left: 100px;
+        text-align: left;
+        margin: auto;
         color: yellow;
       }
       hr {
@@ -66,9 +66,14 @@
         color: white;
         text-align: center;
         margin-top: -50px;
+        text-align: left;
       }
       footer {
         background-color: rgb(49, 21, 21);
         color: rgb(241, 236, 236);
+
+      }
+      .fot-two {
+        margin-top: -80px;
       }
     </style>
