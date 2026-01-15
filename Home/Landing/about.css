@@ -46,10 +46,11 @@
       }
       
        .learn-two {
+        background-color: yellow;
+        width: 570px;
         font-family: 'Franklin Gothic Medium';
         text-align: left;
-        color: white;
-        padding-left: 60px;
+        color: rgb(17, 15, 15);
       }
       a{
         color: rgb(13, 247, 52);
