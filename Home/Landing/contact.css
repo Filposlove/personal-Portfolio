@@ -16,6 +16,19 @@
         margin-right: 200px;
         height: -20px;
         padding-left: 25px;
+        border-radius: 50px;
+      }
+       nav:hover {
+        background-color:  purple;
+        color: white;
+      }
+       nav:focus {
+        background-color:  rgb(251, 231, 14);
+        color: rgb(244, 22, 192);
+      }
+       nav:active {
+        background-color:  rgb(241, 6, 6);
+        color: rgb(236, 252, 22);
       }
       .for-header:hover {
         background-color: rgb(0, 0, 0);
@@ -26,7 +39,6 @@
       .contact-nav {
         color: white;
         text-align: center;
-        margin-bottom: 40px;
       }
        h1,h2, p {
         color: rgb(248, 248, 247);

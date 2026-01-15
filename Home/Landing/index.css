@@ -17,6 +17,19 @@
         margin-right: 200px;
         height: -20px;
         padding-left: 25px;
+        border-radius: 50px;
+      }
+      nav:hover {
+        background-color:  purple;
+        color: white;
+      }
+       nav:focus {
+        background-color:  rgb(251, 231, 14);
+        color: rgb(244, 22, 192);
+      }
+       nav:active {
+        background-color:  rgb(241, 6, 6);
+        color: rgb(236, 252, 22);
       }
     
       .image-link {
@@ -31,7 +44,7 @@
          height: 320px;
          margin-left: -0px;
          margin-bottom: 60px;
-         margin-top: -150px;
+         margin-top: -220px;
          justify-content: center;
       }
       .for-link {
@@ -54,15 +67,19 @@
         margin-top: 50px;
       }
       .biuld-back {
-        background-color: rgb(213, 232, 7);
+        background-color: rgb(45, 57, 86);
         border-radius: 20px;
-        color:  black;
+        color: white;
         width: 130px;
         height: 120px;
         padding: 60px;
         margin-left: 400px;
         font-size: 15px;
         
+      }
+      
+      .for-link {
+        color: white;
       }
       a{
         color: rgb(13, 247, 52);
