@@ -6,7 +6,7 @@
       body {
         background-color: rgb(2, 2, 10);
       }
-      .for-header {
+      nav {
         display: flex;
         background-color: rgb(46, 48, 69);
         padding: 15px;
@@ -39,12 +39,28 @@
       .contact-nav {
         color: white;
         text-align: center;
+        margin-bottom: 400px;
+        width: 300px;
+        height: 200px;
       }
-       h1,h2, p {
+       h2 {
         color: rgb(248, 248, 247);
-        text-align: center;
+        text-align: left;
+        margin-left: 100px;
+        padding-bottom: 2px;
+        padding-top: 40px;
       }
-  
+  .message-one {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+  }
+  #message {
+    padding-left: 200px;
+    padding-bottom: 200px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 100px;
+  }
       a{
         color: rgb(13, 247, 52);
       }
